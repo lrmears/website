@@ -1,0 +1,4 @@
+baseURL = 'https://www.lrmears.github.io/'
+languageCode = 'en-us'
+title = 'Logan Mears'
+theme="hugo-theme-shell"

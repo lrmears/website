@@ -1,0 +1,3 @@
+[submodule "loganmears/public"]
+	path = loganmears/public
+	url = https://github.com/lrmears/loganmears.com.git
